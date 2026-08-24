@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 👋 Hi, I'm Arjwan Hudaib Al-Mutairi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 👋 Hi, I'ORJUWAN HUDAIB ALMUTAIRI! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://github.com/Argwoan/Argwoan/blob/a5fd40efac2958584583a628f4c7801253d29375/WhatsApp%20Image%202026-08-24%20at%206.38.48%20PM.jpeg">
 
@@ -12,7 +12,7 @@
 
 ```javascript
 const arjwan = {
-  name: "Arjwan Hudaib Al-Mutairi",
+  name: "ORJUWAN HUDAIB ALMUTAIRI",
   degree: "Computer Science",
   gpa: "3.43 / 4.00",
   honors: "Second-Class Honors",
