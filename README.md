@@ -5,7 +5,7 @@
 <p><em>🎓 Computer Science Graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square\&logo=github)](https://github.com/)
-[![LinkedIn](https://www.linkedin.com/in/orjuwanalmutairi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/orjuwanalmutairi)
 ![GitHub followers](https://img.shields.io/github/followers/USERNAME?label=Follow\&style=social)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
